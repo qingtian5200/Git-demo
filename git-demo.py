@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print('乘不同的列车 ')
     print('假装过头了 心里满满的苦涩')
     print('假装过头了 心里满满的苦涩')
+    print('hahahhahah')
