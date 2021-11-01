@@ -3,3 +3,5 @@ if __name__ == '__main__':
     print('tinghaode')
     print('那时你说的我们天作之合')
     print('然后怎么了 被时间捉弄了')
+    print('你说ni')
+    print('假装过头了 心里满满的苦涩')
